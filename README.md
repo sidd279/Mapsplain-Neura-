@@ -1,1 +1,2 @@
-# Mapsplain-Neura-
+# mapsplain
+Neura Ai hackathron
